@@ -10,3 +10,8 @@ Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/e
 Video => https://odyssey.wildcodeschool.com/videos/6791
 
 Bonus Validation de données à partir de 31:00 sur la même vidéo (Rappel Sécurité)
+
+### Route Put
+
+Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/express_delete
+Video => https://odyssey.wildcodeschool.com/videos/6850
