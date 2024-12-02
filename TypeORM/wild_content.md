@@ -19,3 +19,9 @@ Video => https://odyssey.wildcodeschool.com/videos/6908
 
 Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/typeORM_relations
 Video => https://odyssey.wildcodeschool.com/videos/9609
+
+### TypeOrm method and seed
+
+Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/seeding_db
+Video => https://odyssey.wildcodeschool.com/videos/9601
+Video => https://odyssey.wildcodeschool.com/videos/9602
