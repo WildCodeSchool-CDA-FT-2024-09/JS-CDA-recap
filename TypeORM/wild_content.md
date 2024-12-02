@@ -2,7 +2,7 @@
 
 ### Lesson Entities
 
-Slides => https://docs.google.com/presentation/d/1mF1XpiaaJ1C_xEKHJzvoQYm7mdXDXim1x3w-Ohse7DA/edit?usp=sharing
+Slides => https://docs.google.com/presentation/d/1mF1XpiaaJ1C_xEKHJzvoQYm7mdXDXim1x3w-Ohse7DA/edit?usp=sharing<br>
 Video => https://odyssey.wildcodeschool.com/videos/6873
 
 ### Live Entites
