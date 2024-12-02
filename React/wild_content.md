@@ -3,7 +3,7 @@
 ### Lesson Props / Components
 
 Slides => https://docs.google.com/presentation/d/1_kpG7cltWqHWHygJ3uei12i58O8qPO7tTd76n_MuTJo/edit?usp=sharing
-video => https://odyssey.wildcodeschool.com/videos/6907
+Video => https://odyssey.wildcodeschool.com/videos/6907
 
 ### Atelier Props / Components
 
@@ -13,7 +13,7 @@ Video => https://odyssey.wildcodeschool.com/videos/6921
 ### Lesson useState / useEffect
 
 Slides => https://docs.google.com/presentation/d/1rBfVaaUydcjSZ_dYF9fP6UnKWAdSuyn3WS-VZys5KPo/edit?usp=sharing
-video => https://odyssey.wildcodeschool.com/videos/6975
+Video => https://odyssey.wildcodeschool.com/videos/6975
 
 ### Atelier useState / useEffect / Fetch
 
