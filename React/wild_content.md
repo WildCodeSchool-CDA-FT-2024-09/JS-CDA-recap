@@ -20,3 +20,13 @@ video => https://odyssey.wildcodeschool.com/videos/6975
 Gist => https://gist.github.com/jujuck/256f0b71faed139a72d59c78c6d5d4de
 Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/react_fetch
 Video => https://odyssey.wildcodeschool.com/videos/6921
+
+### Atelier React Router
+
+Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/react_router
+Video => https://odyssey.wildcodeschool.com/videos/6974
+
+### Atelier POST Formulaire
+
+Repo => https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/LikeManagementWithPost
+Video => https://odyssey.wildcodeschool.com/videos/6984
