@@ -6,7 +6,7 @@ repo => https://github.com/total-typescript/beginners-typescript-tutorial
 
 ### Lesson
 
-Slides => https://github.com/total-typescript/beginners-typescript-tutorial
+Slides => https://docs.google.com/presentation/d/1dIbKHRXNLcwgtn9JR3gs0UPUEMi7trnB2M0vYBVJcBE/edit?usp=sharing
 video => https://odyssey.wildcodeschool.com/videos/6753
 
 # POO
