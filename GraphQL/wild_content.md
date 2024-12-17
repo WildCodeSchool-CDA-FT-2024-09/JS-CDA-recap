@@ -26,3 +26,13 @@
 
 [Repo](https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/graphQLCodeGen)<br>
 [Video](https://odyssey.wildcodeschool.com/videos/7052)
+
+### GraphQL Server Authentification behind Nginx
+
+[Repo](https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/authentificaton)<br>
+[Video](https://odyssey.wildcodeschool.com/videos/7194)
+
+### GraphQL Server Authorization behind Nginx
+
+[Repo](https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/authorization)<br>
+[Video](https://odyssey.wildcodeschool.com/videos/7195)
