@@ -25,4 +25,10 @@ Mots-clés: Container, Images, Volumes, Build<br>
 ## Docker network, env, logs
 
 [Video](https://odyssey.wildcodeschool.com/videos/7104)<br>
-[Recap](./docker_2.md)
+[Recap](./docker_2.md)<br>
+
+[Video](https://odyssey.wildcodeschool.com/videos/7104)<br>
+[Recap](./docker_2.md)<br>
+
+[Video](https://odyssey.wildcodeschool.com/videos/7172)<br>
+[Repo](https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/dockerCompose)

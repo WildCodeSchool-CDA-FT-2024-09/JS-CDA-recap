@@ -7,7 +7,7 @@ Deploy a Full JS app on the cloud with or without Docker. For that, we will use 
 
 ### Docker and Nginx
 
-[schema 1](https://drive.google.com/file/d/1C-DBc87vBpw0RQ0vPS38Z1qZO8dZ0cZ_/view)
-[schema 2](https://drive.google.com/file/d/1Svh7buCqInUdW4If4FwBJFOtslxX6eWX/view?usp=drive_link)
-[Video](https://odyssey.wildcodeschool.com/videos/7180)
+[schema 1](https://drive.google.com/file/d/1C-DBc87vBpw0RQ0vPS38Z1qZO8dZ0cZ_/view)<br>
+[schema 2](https://drive.google.com/file/d/1Svh7buCqInUdW4If4FwBJFOtslxX6eWX/view?usp=drive_link)<br>
+[Video](https://odyssey.wildcodeschool.com/videos/7180)<br>
 [Repo](https://github.com/WildCodeSchool-CDA-FT-2024-09/Bac-A-Sable-Demo/tree/nginx)

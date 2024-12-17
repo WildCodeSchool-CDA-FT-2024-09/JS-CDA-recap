@@ -16,3 +16,8 @@
 
 [Slides](https://docs.google.com/presentation/d/1xzYKhDgJTqkNvJ6MjNCzmYtdygTldOnRp4Te0-pfAqE/edit?usp=sharing)<br>
 [Video](https://odyssey.wildcodeschool.com/videos/6849)
+
+### PostgresQL vs MySQL
+
+[Slides](https://docs.google.com/presentation/d/1FTAQdmqA0sAfwvAnXP6GQuITbCx-vR7cJb14EVBYs9A/edit?usp=sharing)<br>
+[Video](https://odyssey.wildcodeschool.com/videos/7171)
