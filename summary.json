@@ -8,43 +8,53 @@
       "diagramme_sequence.webp",
       "diagramme_use_case_christopher.png"
     ],
-    "link": "UML/wild_content.md"
+    "link": "UML/wild_content.md",
+    "description": "Découverte et initiation au diagramme UML pour renforcer les compétences de gestion de projet autour des diagrammes de classes/entités, cas d'usage et de sequence"
   },
   {
     "subject": "Typescript et la POO",
-    "link": "TypeScript-POO/wild-content.md"
+    "link": "TypeScript-POO/wild-content.md",
+    "description": "Initiation à typescript et revision des concepts de la Programmation orientée object"
   },
   {
     "subject": "TypeORM",
-    "link": "TypeORM/wild-content.md"
+    "link": "TypeORM/wild-content.md",
+    "description": "Découverte de l'ORM TypeORM, des entités, des relations et de ces méthodes"
   },
   {
     "subject": "Testing",
-    "link": "Test/wild-content.md"
+    "link": "Test/wild-content.md",
+    "description": "Découverte des différents niveaux de tests et de leur mise en place"
   },
   {
     "subject": "Référencement Naturel - SEO",
-    "link": "SEO/wild-content.md"
+    "link": "SEO/wild-content.md",
+    "description": "Rapide introduction aux référencements techniques, quelles sont les éléments à mettre en place dans un site web pour espèrer remonter sur les moteurs de recherche"
   },
   {
     "subject": "React",
-    "link": "React/wild-content.md"
+    "link": "React/wild-content.md",
+    "description": "Révision rapide des concepts entourant la librairie React: Composant, Props, Navigation, State, UseEffect, ..."
   },
   {
     "subject": "Plugins",
-    "link": "Plugins/wild-content.md"
+    "link": "Plugins/wild-content.md",
+    "description": "Aperç et découverte de plugins améliorant notre productivité"
   },
   {
     "subject": "Apollo et GrapĥQL",
-    "link": "GraphQL/wild-content.md"
+    "link": "GraphQL/wild-content.md",
+    "description": "Découverte et intégration de GraphQL, Apollo et Codegen pour la gestion de notre API de données"
   },
   {
     "subject": "Express et Rest API",
-    "link": "Express-REST_API/wild-content.md"
+    "link": "Express-REST_API/wild-content.md",
+    "description": "Révision de la mise en place d'une API Rest: routes (Get, Post, Put, Patch, delete), des params, query et body avec express"
   },
   {
     "subject": "Eco conception et numérique",
-    "link": "Eco-conception/wild-content.md"
+    "link": "Eco-conception/wild-content.md",
+    "description": "Rapide aperçu de l'impact du numérique sur l'environnement et de l'action possible en développement"
   },
   {
     "subject": "Docker et contenairisation",
@@ -60,7 +70,8 @@
       "docker_2.md",
       "DOCKERFILE_API",
       "DOCKERFILE_CLIENT"
-    ]
+    ],
+    "description": "Introduction et explication des concepts (Network, volume, port, ...) autour de Docker et de l'orchestration de container avec docker compose"
   },
   {
     "subject": "Deploiement et serveur",
@@ -69,29 +80,35 @@
       {
         "subject": "Déploiement continue"
       }
-    ]
+    ],
+    "description": "Aperçu de déploiement sur le cloud ou VPS. Introduction à un déploiement continue avec github action et docker hub"
   },
   {
     "subject": "Cyber sécurité et web",
-    "link": "CyberSecurite/wild-content.md"
+    "link": "CyberSecurite/wild-content.md",
+    "description": "Révision des concepts importants de sécurité en développement web"
   },
   {
     "subject": "CSS, UI et UX"
   },
   {
     "subject": "Intégration continue",
-    "link": "CI/wild-content.md"
+    "link": "CI/wild-content.md",
+    "description": "Aperçu de l'intégration continue avec github, et les workflows, .yml"
   },
   {
     "subject": "Base de données",
-    "link": "BDD/wild-content.md"
+    "link": "BDD/wild-content.md",
+    "description": "Introduction à différents SGBDR (Postgres, MySQl, SQlite) et au NoSQL"
   },
   {
     "subject": "Architecture",
-    "link": "Architecture/wild-content.md"
+    "link": "Architecture/wild-content.md",
+    "description": "Approche graphique d'architecture de code, architecture de déploiement"
   },
   {
     "subject": "Accessibilité",
-    "link": "Accessibilite/wild-content.md"
+    "link": "Accessibilite/wild-content.md",
+    "description": "Revision des concepts et indispensable autour de l'accessibilité"
   }
 ]
