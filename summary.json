@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "UML",
+    "assets": [
+      "diagramme_classe_christopher.png",
+      "diagramme_dactivites.png",
+      "diagramme_sequence_Marie_Hermine.webp",
+      "diagramme_sequence.webp",
+      "diagramme_use_case_christopher.png"
+    ],
+    "link": "UML/wild_content.md"
+  },
+  {
+    "subject": "Typescript et la POO",
+    "link": "TypeScript-POO/wild-content.md"
+  },
+  {
+    "subject": "TypeORM",
+    "link": "TypeORM/wild-content.md"
+  },
+  {
+    "subject": "Testing",
+    "link": "Test/wild-content.md"
+  },
+  {
+    "subject": "Référencement Naturel - SEO",
+    "link": "SEO/wild-content.md"
+  },
+  {
+    "subject": "React",
+    "link": "React/wild-content.md"
+  },
+  {
+    "subject": "Plugins",
+    "link": "Plugins/wild-content.md"
+  },
+  {
+    "subject": "Apollo et GrapĥQL",
+    "link": "GraphQL/wild-content.md"
+  },
+  {
+    "subject": "Express et Rest API",
+    "link": "Express-REST_API/wild-content.md"
+  },
+  {
+    "subject": "Eco conception et numérique",
+    "link": "Eco-conception/wild-content.md"
+  },
+  {
+    "subject": "Docker et contenairisation",
+    "link": "Docker/wild-content.md",
+    "sub-folders": [
+      {
+        "subject": "Orchestration de container",
+        "link": "Docker/Docker-compose/wild_content.md"
+      }
+    ],
+    "assets": [
+      "docker_1.md",
+      "docker_2.md",
+      "DOCKERFILE_API",
+      "DOCKERFILE_CLIENT"
+    ]
+  },
+  {
+    "subject": "Deploiement et serveur",
+    "link": "Deploiement/wild-content.md",
+    "sub-folders": [
+      {
+        "subject": "Déploiement continue"
+      }
+    ]
+  },
+  {
+    "subject": "Cyber sécurité et web",
+    "link": "CyberSecurite/wild-content.md"
+  },
+  {
+    "subject": "CSS, UI et UX"
+  },
+  {
+    "subject": "Intégration continue",
+    "link": "CI/wild-content.md"
+  },
+  {
+    "subject": "Base de données",
+    "link": "BDD/wild-content.md"
+  },
+  {
+    "subject": "Architecture",
+    "link": "Architecture/wild-content.md"
+  },
+  {
+    "subject": "Accessibilité",
+    "link": "Accessibilite/wild-content.md"
+  }
+]
