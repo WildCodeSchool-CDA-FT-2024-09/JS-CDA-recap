@@ -13,52 +13,52 @@
   },
   {
     "subject": "Typescript et la POO",
-    "link": "TypeScript-POO/wild-content.md",
+    "link": "TypeScript-POO/wild_content.md",
     "description": "Initiation à typescript et revision des concepts de la Programmation orientée object"
   },
   {
     "subject": "TypeORM",
-    "link": "TypeORM/wild-content.md",
+    "link": "TypeORM/wild_content.md",
     "description": "Découverte de l'ORM TypeORM, des entités, des relations et de ces méthodes"
   },
   {
     "subject": "Testing",
-    "link": "Test/wild-content.md",
+    "link": "Test/wild_content.md",
     "description": "Découverte des différents niveaux de tests et de leur mise en place"
   },
   {
     "subject": "Référencement Naturel - SEO",
-    "link": "SEO/wild-content.md",
+    "link": "SEO/wild_content.md",
     "description": "Rapide introduction aux référencements techniques, quelles sont les éléments à mettre en place dans un site web pour espèrer remonter sur les moteurs de recherche"
   },
   {
     "subject": "React",
-    "link": "React/wild-content.md",
+    "link": "React/wild_content.md",
     "description": "Révision rapide des concepts entourant la librairie React: Composant, Props, Navigation, State, UseEffect, ..."
   },
   {
     "subject": "Plugins",
-    "link": "Plugins/wild-content.md",
-    "description": "Aperç et découverte de plugins améliorant notre productivité"
+    "link": "Plugins/wild_content.md",
+    "description": "Aperçu et découverte de plugins améliorant notre productivité"
   },
   {
     "subject": "Apollo et GrapĥQL",
-    "link": "GraphQL/wild-content.md",
+    "link": "GraphQL/wild_content.md",
     "description": "Découverte et intégration de GraphQL, Apollo et Codegen pour la gestion de notre API de données"
   },
   {
     "subject": "Express et Rest API",
-    "link": "Express-REST_API/wild-content.md",
+    "link": "Express-REST_API/wild_content.md",
     "description": "Révision de la mise en place d'une API Rest: routes (Get, Post, Put, Patch, delete), des params, query et body avec express"
   },
   {
     "subject": "Eco conception et numérique",
-    "link": "Eco-conception/wild-content.md",
+    "link": "Eco-conception/wild_content.md",
     "description": "Rapide aperçu de l'impact du numérique sur l'environnement et de l'action possible en développement"
   },
   {
     "subject": "Docker et contenairisation",
-    "link": "Docker/wild-content.md",
+    "link": "Docker/wild_content.md",
     "sub-folders": [
       {
         "subject": "Orchestration de container",
@@ -75,7 +75,7 @@
   },
   {
     "subject": "Deploiement et serveur",
-    "link": "Deploiement/wild-content.md",
+    "link": "Deploiement/wild_content.md",
     "sub-folders": [
       {
         "subject": "Déploiement continue"
@@ -85,7 +85,7 @@
   },
   {
     "subject": "Cyber sécurité et web",
-    "link": "CyberSecurite/wild-content.md",
+    "link": "CyberSecurite/wild_content.md",
     "description": "Révision des concepts importants de sécurité en développement web"
   },
   {
@@ -93,22 +93,22 @@
   },
   {
     "subject": "Intégration continue",
-    "link": "CI/wild-content.md",
+    "link": "CI/wild_content.md",
     "description": "Aperçu de l'intégration continue avec github, et les workflows, .yml"
   },
   {
     "subject": "Base de données",
-    "link": "BDD/wild-content.md",
+    "link": "BDD/wild_content.md",
     "description": "Introduction à différents SGBDR (Postgres, MySQl, SQlite) et au NoSQL"
   },
   {
     "subject": "Architecture",
-    "link": "Architecture/wild-content.md",
+    "link": "Architecture/wild_content.md",
     "description": "Approche graphique d'architecture de code, architecture de déploiement"
   },
   {
     "subject": "Accessibilité",
-    "link": "Accessibilite/wild-content.md",
+    "link": "Accessibilite/wild_content.md",
     "description": "Revision des concepts et indispensable autour de l'accessibilité"
   }
 ]
