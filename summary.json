@@ -115,5 +115,10 @@
     "subject": "React Nativ",
     "link": "React-nativ/wild_content.md",
     "description": "Découverte de l'univers du mobile et de la mise en place d'application"
+  },
+  {
+    "subject": "NoSQL, Mongo et Redis",
+    "link": "NoSQL/wild_content.md",
+    "description": "Découverte du systeme de gestion de données Clé/valeur"
   }
 ]
